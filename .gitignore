@@ -4,3 +4,4 @@ __pycache__/
 logs/*.json
 !logs/.gitkeep
 .env
+*.log
