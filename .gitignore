@@ -2,6 +2,7 @@ venv/
 __pycache__/
 *.pyc
 logs/*.json
+logs/attack_logs.json
 !logs/.gitkeep
 .env
 *.log
